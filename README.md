@@ -12,7 +12,7 @@
 
 ## License
 
-Source code is MIT licensed, as found in the [LICENSE][l] file.
+Source code is MIT licensed, as found in the LICENSE file.
 
 
 --<br>Yours,<br>Tedo Nash<br>tedo.nash@gmail.com
